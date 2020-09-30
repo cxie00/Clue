@@ -1,8 +1,8 @@
 # Clue
 Hello!!!
 
-    Link to Youtube Demo: https://youtu.be/33Id0Z9RXRc
-    I made a version of Clue in C for a CS class in fall 2020.
+Link to Youtube Demo: https://youtu.be/33Id0Z9RXRc
+I made a version of Clue in C for a CS class in fall 2020.
     
 My implementation features a main function where the initialization, input, and game loop occur. I initialize
 the three main data structures: Items, Rooms, and Characters. They are defined in their respective .h and .c files
